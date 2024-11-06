@@ -2,12 +2,13 @@
 
 # 👩‍💻 Desenvolvedora em Transição para Tecnologia
 
-🎓 **Estudante de Sistemas para Internet (TSPI)**  
+🎓 **Estudante de Sistemas para Internet (TSPI) - IFTM**  
 ✨ Apaixonada por **interfaces intuitivas** e **experiências imersivas**.  
 
 💡 **Transformo ideias em realidade** — simplifico processos e facilito a vida dos usuários.
 
 🚀 Forte em **front-end**, explorando o **back-end** para me tornar uma profissional completa e versátil, pronta para agregar valor em ambas as áreas!
+
 ---
 ### 🛠️ Minhas Skills  
 <div align="left">
