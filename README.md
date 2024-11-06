@@ -1,8 +1,9 @@
 # Olá, eu sou a Bárbara! 👋
 
-# 👩‍💻 Desenvolvedora em Transição para Tecnologia
+👩‍💻 Desenvolvedora em Transição para Tecnologia
 
 🎓 **Estudante de Sistemas para Internet (TSPI) - IFTM**  
+
 ✨ Apaixonada por **interfaces intuitivas** e **experiências imersivas**.  
 
 💡 **Transformo ideias em realidade** — simplifico processos e facilito a vida dos usuários.
@@ -41,8 +42,7 @@ Entusiasta do desenvolvimento web e sempre em busca de novos desafios! Minhas pr
 #### 2º Período
 - **[Brabos Movies](https://barbara-ra.github.io/Lista04/index.html#home)**: Plataforma que exibe os 20 filmes mais populares do último mês, integrando a API do TMDb.
 - **[Game É Par](https://barbara-ra.github.io/ProjetoFinal-JS-EPar/index.html)**: Jogo para clicar nos números pares, com níveis de dificuldade e temas.
-- **[MVC CRUD - Apex](https://exemplo.com/mvc-crud-apex)**: Aplicação CRUD em Spring Boot com interface intuitiva.
-- **[MVC Projeto Final - Loja Sexy Shop](https://exemplo.com/loja-sexy-shop)**: Sistema para uma loja, com funcionalidades para vendas e gerenciamento de produtos.
+- **[MVC Projeto Final - Loja Sexy Shop](https://github.com/Barbara-RA/IFTM-P2-ProjetoSitemaWebMVCESQL/tree/main/ProjetoFinal_Loja/trabalhoLoja)**: Sistema para uma loja, com funcionalidades para vendas e gerenciamento de produtos.
 
 #### 1º Período
 - **[Projeto Final](https://barbara-ra.github.io/ProjetoFinal/index.html)**: Site de múltiplas páginas inspirado em um jogo, explorando HTML e CSS.
