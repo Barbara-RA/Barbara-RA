@@ -1,6 +1,6 @@
 # Olá, eu sou a Bárbara! 👋
 
-👩‍💻 Desenvolvedora em Transição para Tecnologia
+👩‍💻 Desenvolvedora em Transição para Tecnologia, formada em Ciências Contábeis.
 
 🎓 **Estudante de Sistemas para Internet (TSPI) - IFTM**  
 
@@ -31,21 +31,16 @@ Entusiasta do desenvolvimento web e sempre em busca de novos desafios! Minhas pr
 
 ### 🌱 Projetos e Contribuições
 
-#### Portfólio (em produção)
-- Meu portfólio, onde centralizo os projetos e evoluções do meu trabalho. [Link em breve]
-
-#### 3º Período
-- **[Landing Pages]**: Criação de páginas modernas e responsivas, com foco em experiência mobile.
+- **Landing Pages**: Criação de páginas modernas e responsivas, com foco em experiência mobile.
   - **[Andressa](https://www.psicoandressa.com/)**: Landing page clean e acolhedora para uma psicóloga.
   - **[Arquiteto Neffegue (em produção)](https://github.com/Barbara-RA/nefegueArquiteto)**: Projeto voltado à estética e funcionalidade.
-
-#### 2º Período
 - **[Brabos Movies](https://barbara-ra.github.io/Lista04/index.html#home)**: Plataforma que exibe os 20 filmes mais populares do último mês, integrando a API do TMDb.
 - **[Game É Par](https://barbara-ra.github.io/ProjetoFinal-JS-EPar/index.html)**: Jogo para clicar nos números pares, com níveis de dificuldade e temas.
 - **[MVC Projeto Final - Loja Sexy Shop](https://github.com/Barbara-RA/IFTM-P2-ProjetoSitemaWebMVCESQL/tree/main/ProjetoFinal_Loja/trabalhoLoja)**: Sistema para uma loja, com funcionalidades para vendas e gerenciamento de produtos.
+- **[Projeto Final - HTML e CSS](https://barbara-ra.github.io/ProjetoFinal/index.html)**: Site de múltiplas páginas inspirado em um jogo, explorando HTML e CSS.
 
-#### 1º Período
-- **[Projeto Final](https://barbara-ra.github.io/ProjetoFinal/index.html)**: Site de múltiplas páginas inspirado em um jogo, explorando HTML e CSS.
+#### Portfólio (em produção)
+- Meu portfólio, onde centralizo os projetos e evoluções do meu trabalho. [Link em breve]
 
 ---
 
@@ -57,19 +52,25 @@ Colaborar em projetos inovadores, aplicar e expandir meu conhecimento em **front
 ### 🌈 Hard e Soft Skills
 
 **Hard Skills**
-- Desenvolvimento front-end e back-end
-- Integração de APIs
-- Design responsivo e usabilidade
+- **Linguagens de programação**: Java, JavaScript, HTML, CSS
+- **Frameworks e bibliotecas**: Spring Boot, React, React Native
+- **Banco de dados**: MySQL, MongoDB
+- **Ferramentas e controle de versão**: Git e GitHub
+- **APIs**: Consumo e integração com APIs RESTful
+- **Boas práticas de código**: Princípios SOLID, otimização de código e desenvolvimento limpo
+- **Design responsivo e UI/UX**: Criação de interfaces intuitivas e adaptação para diferentes dispositivos
 
 **Soft Skills**
-- Colaboração em equipe
-- Aprendizado contínuo
-- Orientação para resultados
-- Foco desenvolvimento Produto/serviço
+- **Autogerenciamento**: Capacidade de organizar e priorizar tarefas de forma independente.
+- **Resiliência**: Persistência em resolver desafios e superar obstáculos.
+- **Pensamento crítico e analítico**: Análise cuidadosa para tomada de decisões informadas.
+- **Curiosidade e aprendizado contínuo**: Interesse em explorar novas tecnologias e expandir conhecimentos constantemente.
+- **Trabalho em equipe**: Colaboração eficaz para alcançar metas e resolver problemas coletivamente.
+
 
 ---
 
-### 🤝 Vamos Conectar!
+### 🤝 Vamos nos conectar!
 
 - GitHub: [github.com/Barbara-RA](https://github.com/Barbara-RA?tab=repositories)
 - LinkedIn: [linkedin.com/barbara-ramos-alves-udi1](https://www.linkedin.com/in/barbara-ramos-alves-udi1/)
