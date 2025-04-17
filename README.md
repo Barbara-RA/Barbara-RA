@@ -33,7 +33,7 @@ Entusiasta do desenvolvimento web e sempre em busca de novos desafios! Minhas pr
 
 - **Landing Pages**: Criação de páginas modernas e responsivas, com foco em experiência mobile.
   - **[Andressa](https://www.psicoandressa.com/)**: Landing page clean e acolhedora para uma psicóloga.
-  - **[Arquiteto Neffegue (em produção)](https://github.com/Barbara-RA/nefegueArquiteto)**: Projeto voltado à estética e funcionalidade.
+  - **[Arquiteto Neffegue ()](https://www.nefeguearquitetura.com/)**: Landing page estratégica voltada para atrair e converter leads em novos projetos de arquitetura.
 - **[Brabos Movies](https://barbara-ra.github.io/Lista04/index.html#home)**: Plataforma que exibe os 20 filmes mais populares do último mês, integrando a API do TMDb.
 - **[Game É Par](https://barbara-ra.github.io/ProjetoFinal-JS-EPar/index.html)**: Jogo para clicar nos números pares, com níveis de dificuldade e temas.
 - **[MVC Projeto Final - Loja Sexy Shop](https://github.com/Barbara-RA/IFTM-P2-ProjetoSitemaWebMVCESQL/tree/main/ProjetoFinal_Loja/trabalhoLoja)**: Sistema para uma loja, com funcionalidades para vendas e gerenciamento de produtos.
